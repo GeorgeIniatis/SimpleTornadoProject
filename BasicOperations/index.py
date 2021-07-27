@@ -20,7 +20,7 @@ class queryStringRequestHandler(tornado.web.RequestHandler):
 
 
 class resourceRequestHandler(tornado.web.RequestHandler):
-    def get(self,id):
+    def get(self, id):
         self.write(f"You have requested the book with id: {id}")
 
 
