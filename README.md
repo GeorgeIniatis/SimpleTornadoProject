@@ -1,7 +1,7 @@
 ### Running Project Locally
 Clone repository
 
-`$ git clone https://github.com/GeorgeIniatis/Course-Grade-Calculation.git`
+`$ git clone https://github.com/GeorgeIniatis/SimpleTornadoProject.git`
 
 Create virtual environment and install dependencies
 
