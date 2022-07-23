@@ -32,6 +32,6 @@ if __name__ == "__main__":
         (r"/books/([0-9]+)", resourceRequestHandler),
     ])
 
-    app.listen(8888)
+    app.listen(8000)
     print("Listening")
     tornado.ioloop.IOLoop.current().start()
